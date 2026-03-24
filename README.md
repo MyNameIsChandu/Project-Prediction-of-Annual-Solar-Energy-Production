@@ -1,5 +1,4 @@
 # Project-Prediction-of-Annual-Solar-Energy-Production
-# 🌞 Solar Energy Production Prediction
 
 ## 📌 Project Overview
 This project focuses on predicting **annual solar energy production (kWh)** for solar installations using machine learning. The goal is to support data-driven decision-making in solar project planning, location selection, and investment optimization.
